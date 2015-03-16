@@ -5,4 +5,4 @@ Testing remote repository
 
 ## Testing branch merging
 
-- [Infragistics.com](http://www.infragistics.com)
+- [Infragistics.com](http://www.infragistics.com) - Infragistics site
